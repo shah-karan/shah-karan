@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karan Shah, a research aspirant and an alumni of University at Buffalo.
+- 👀 I’m interested in Aerodynamics with special focus on Experimental and Computational Fluid Dynamics.
+- 🌱 I’m currently learning Race Car Aerodynamics and Python for Fluid Mechanics
+- 📫 You can reach me at kshah6@buffalo.edu
